@@ -1,0 +1,24 @@
+Dataset Amazon:{
+    datasetName = "Amazon",
+    datasetDescribtion = "This is a hugging face dataset that contains Amazon customer reviews labeled as positive or negative sentiment, featuring over 4 million reviews collected over an 18-year period for binary text classification tasks, commonly used as a benchmark for sentiment analysis models.",
+    Num_In = 3600000,
+}
+
+Dataset Child:{
+    datasetName = "Child",
+    datasetDescribtion = "This is a Hugging face dataset **ajibawa-2023/Children-Stories-Collection** containing educational stories targeted at young children with 800K training Entries,, using simple words and phrases.",
+    Num_In = 800000,
+}
+
+Dataset Finance:{
+    datasetName = "Finance",
+    datasetDescribtion = "Finance-Instruct-500k is a comprehensive and meticulously curated dataset designed to train advanced language models for financial tasks, reasoning, and multi-turn conversations. Combining data from numerous high-quality financial datasets, this corpus provides over 500,000 entries, offering unparalleled depth and versatility for finance-related instruction tuning and fine-tuning. The dataset includes content tailored for financial reasoning, question answering, entity recognition, sentiment analysis, address parsing, and multilingual natural language processing (NLP). Its diverse and deduplicated entries make it suitable for a wide range of financial AI applications, including domain-specific assistants, conversational agents, and information extraction systems.",
+    Num_In = 518815,
+}
+
+Dataset Math:{
+    datasetName = "Math",
+    datasetDescribtion = "This is a Hugging Face dataset that comprising approximately 2.3 billion tokens derived from the FineMath-4+ dataset through an LLM-driven rewriting pipeline.",
+    Num_In = 6497564,
+}
+
